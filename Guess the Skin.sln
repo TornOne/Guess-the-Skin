@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34024.191
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Guess the Skin", "Guess the Skin\Guess the Skin.csproj", "{5356A66A-147F-4357-9C1E-559A0D6F1324}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Skin Collector", "Skin Collector\Skin Collector.csproj", "{686965B3-B56D-445D-92C7-6F687BA438FB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5356A66A-147F-4357-9C1E-559A0D6F1324}.Debug|x64.ActiveCfg = Debug|x64
+		{5356A66A-147F-4357-9C1E-559A0D6F1324}.Debug|x64.Build.0 = Debug|x64
+		{5356A66A-147F-4357-9C1E-559A0D6F1324}.Release|x64.ActiveCfg = Release|x64
+		{5356A66A-147F-4357-9C1E-559A0D6F1324}.Release|x64.Build.0 = Release|x64
+		{686965B3-B56D-445D-92C7-6F687BA438FB}.Debug|x64.ActiveCfg = Debug|x64
+		{686965B3-B56D-445D-92C7-6F687BA438FB}.Debug|x64.Build.0 = Debug|x64
+		{686965B3-B56D-445D-92C7-6F687BA438FB}.Release|x64.ActiveCfg = Release|x64
+		{686965B3-B56D-445D-92C7-6F687BA438FB}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4BEA68D2-2781-49EE-BE9A-1B66D6F07E51}
+	EndGlobalSection
+EndGlobal
