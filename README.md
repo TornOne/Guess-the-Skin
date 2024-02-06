@@ -8,8 +8,8 @@ It integrates with Discord, allowing you to compete against your friends in real
 # Setup
 * Download the [latest release](https://github.com/TornOne/Guess-the-Skin/releases/latest)
 * Install the [.NET 8 Desktop Runtime](https://dotnet.microsoft.com/en-us/download/dotnet/8.0) (not the SDK, and not the regular Runtime)
-* Get a Discord bot to run the game for you. It should not be too difficult to create one through the [Discord Developer Portal](https://discord.com/developers/applications).
-It should join the server you wish to play in, as well as have permissions to read and write messages in the channel(s) you want to play in.
+* Get a Discord bot to run the game for you. It should not be too difficult to create one through the [Discord Developer Portal](https://discord.com/developers/applications).  
+It should join the server you wish to play in, as well as have permissions to read and write messages in the channel(s) you want to play in.  
 [Step 1 of the Getting Started guide](https://discord.com/developers/docs/getting-started#step-1-creating-an-app) might help you, if you're having trouble with this.  
 Replace the contents of `Discord Bot/auth` with your bot's token.
 * Replace the contents of `Discord Bot/admin` with your Discord User ID. Do the same with `Guess the Skin/admins.txt`. The latter file can have multiple admin IDs on separate lines.  
