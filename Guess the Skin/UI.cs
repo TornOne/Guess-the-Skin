@@ -103,7 +103,7 @@ class UI {
 					!kick [Name] - removes Name from the game
 					!next - ends round / starts next round
 					!giveadmin [userId] - gives admin permissions to that user
-					Any other text is a case-insensitive guess of the skinline, unless it's an exact match for a champion name or the exactly correct guess for the skin + champion
+					Any other text is a case-insensitive guess of the champion or skinline
 					""");
 				return;
 			}
