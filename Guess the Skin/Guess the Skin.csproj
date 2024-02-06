@@ -38,4 +38,13 @@
     <DebugType>full</DebugType>
   </PropertyGroup>
 
+  <ItemGroup>
+    <None Update="aliases.txt">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Update="champions.txt">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+
 </Project>
